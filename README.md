@@ -4,7 +4,7 @@ Este repositório armazena notas de aula de Estatística e Econometria. Adiciona
 # 1. Teoria dos Conjuntos
 # 2. Números-Índices
 # 3. Probabilidade
-(Teoria de probabilidade)[https://github.com/ronissonlucas/Statistical/blob/main/2.%20Probabilidade.ipynb]
+(Teoria de Probabilidade)(https://github.com/ronissonlucas/Statistical/blob/main/2.%20Probabilidade.ipynb)
 # 4. Variáveis aleatórias
 # 5. Distribuições de probabilidade
 # 6. Distribuições conjuntas de probabilidade
