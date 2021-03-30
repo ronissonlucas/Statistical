@@ -14,3 +14,6 @@ Este repositório armazena notas de aula de Estatística e Econometria. Adiciona
 [Números-índice e estatística básica](https://github.com/ronissonlucas/Statistical/blob/main/3.%20Vari%C3%A1veis_aleat%C3%B3rias.ipynb)
 
 # 9. Implementações em Python
+[Regressão linear simples](https://github.com/ronissonlucas/Statistical/blob/main/Econometrics1.ipynb)
+
+
