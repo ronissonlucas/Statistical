@@ -12,6 +12,7 @@ Este repositório armazena notas de aula de Estatística e Econometria. Adiciona
 # 6. Distribuições conjuntas de probabilidade
 [Distribuições conjuntas](https://github.com/ronissonlucas/Statistical/blob/main/5.%20Distribui%C3%A7%C3%B5es_conjuntas.ipynb)
 # 7. Inferência estatística
+[Introdução](https://github.com/ronissonlucas/Statistical/blob/main/6.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Infer%C3%AAncia%20Estat%C3%ADstica.ipynb)
 # 8. Formulário
 [Números-índice e estatística básica](https://github.com/ronissonlucas/Statistical/blob/main/3.%20Vari%C3%A1veis_aleat%C3%B3rias.ipynb)
 
