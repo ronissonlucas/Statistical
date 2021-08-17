@@ -12,10 +12,10 @@ Este repositório armazena notas de aula de Estatística e Econometria. Adiciona
 #### 8. [Intervalo de confiança](https://github.com/ronissonlucas/Statistical/blob/main/8.%20Intervalo_Confian%C3%A7a.ipynb)
 #### 9. [Testes de hipótese](https://github.com/ronissonlucas/Statistical/blob/main/9.%20Testes.ipynb)
 
-# Formulário
+#### Formulários
 [Números-índice e estatística básica](https://github.com/ronissonlucas/Statistical/blob/main/3.%20Vari%C3%A1veis_aleat%C3%B3rias.ipynb)
 
-# 9. Implementações em Python
-[Regressão linear simples](https://github.com/ronissonlucas/Statistical/blob/main/Econometrics1.ipynb)
+#### Implementações em Python
+* [Regressão linear simples](https://github.com/ronissonlucas/Statistical/blob/main/Econometrics1.ipynb)
 
 
